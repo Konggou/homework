@@ -1,0 +1,16 @@
+﻿  test.c
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(18,10): error C2109: 下标要求数组或指针类型
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(30,25): error C2109: 下标要求数组或指针类型
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(30,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(30,11): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(30,11): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(40,13): error C2057: 应输入常量表达式
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(40,13): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(40,20): error C2057: 应输入常量表达式
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(40,20): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(40,20): error C2087: “a”: 缺少下标
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(40,21): error C2133: “a”: 未知的大小
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(41,8): warning C4047: “函数”:“int *”与“int [0][1]”的间接级别不同
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(41,7): warning C4024: “Init”: 形参和实参 1 的类型不同
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(53,9): warning C4047: “函数”:“int *”与“int [0][1]”的间接级别不同
+C:\Users\Barbed\source\repos\Stack\Stack\test.c(53,8): warning C4024: “Print”: 形参和实参 1 的类型不同
